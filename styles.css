@@ -33,6 +33,7 @@ body{
 		.card-image{
 			width:100px;
 			height:150px;
+			object-fit:cover;
 		}
 .hero-section-img{
 	width: 100%;
