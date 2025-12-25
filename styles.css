@@ -10,7 +10,7 @@ body{
 			background-size:cover;
 			position:relative;
 		}
-		.products-card{
+		.product-cards{
 			display:flex;
 			align-items:center;
 			gap:10px;
